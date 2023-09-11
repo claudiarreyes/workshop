@@ -1,2 +1,0 @@
-[console_scripts]
-hello_world = mymodule.submod1:hello_world
