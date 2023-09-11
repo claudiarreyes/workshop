@@ -8,9 +8,9 @@ pip install -e .
 
 **SkySim**
 ----
-Rhis project was built as part of the 2023 python workshop
+This project was built as part of the 2023 python workshop
 
-#Usage
+**Usage**
 ----
 The main entry point is ```sim_catalog```:
 
@@ -19,11 +19,11 @@ The main entry point is ```sim_catalog```:
 usage: sim[-h] [--ref_ra REF_RA]
 ```
 
-#Documentation
+**Documentation**
 -----
 
-#Author
+**Author**
 -----
 
-#Credit
+**Credit**
 ------
