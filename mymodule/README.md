@@ -6,7 +6,7 @@ My example script is in mymodule/
 pip install -e .
 ```
 
-#SkySim
+**SkySim**
 ----
 Rhis project was built as part of the 2023 python workshop
 
